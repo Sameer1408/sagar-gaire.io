@@ -1,0 +1,31 @@
+.navbar{width: 500;height: 40;position: relative;bottom: 40;left: 500;border-radius: 20px}
+.nav-link{color:rgba(236 97 21 / 97%);text-decoration: 0;padding:20;position: relative;bottom: 10;text-align: center;font-weight: 550;}
+.sagar-gaire{position: relative;top: 16;left: 50}
+.oder{position:relative;bottom: 120;left: 1100}
+.date{width: 90%;border: 1px solid;text-align: center;position: relative;bottom: 50;border-radius: 20px;color: grey ;position: relative;left: 70}
+.slider{position: relative;bottom: 30;height: 400px}
+.slider_heading{position: relative;bottom: 300px;left: 100;z-index: 2}
+.slide_size{width:1200;margin: auto}
+.TOI{position: relative;bottom:400;left: 500px;width: 50%;z-index: 2;background-color: rgba(255, 255, 255, 0.27)}
+
+
+
+@media(max-width:998px){.sagar-gaire{position: relative;top: 10;left: 290;}
+    .navbar{width: 900;height: 40;position: relative;top: 50;left:40;border-radius: 20px}
+    .oder{position:relative;left: 1000;}
+.date{width: 100%;border: 1px solid;text-align: center;position: relative;top: 90; }
+    .slide_size{width:1200;margin: auto;height: 600;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
